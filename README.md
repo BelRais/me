@@ -24,7 +24,7 @@
   
   💻 IDEs/Editors:
   ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-  ![VS code](https://img.shields.io/badge/VS%20Code-0f0f0f%3F?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&color=blue)
+  ![VScode](https://img.shields.io/badge/VS%20Code-0f0f0f%3F?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&color=blue)
 
 <br> C/C++ Projects </br>
   📚 Frameworks, Platforms and Libraries C++:
