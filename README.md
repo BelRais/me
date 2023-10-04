@@ -33,6 +33,7 @@
 | ------------- |:------------------------:| ------------------------:|
 | [SmartCalc_v1.0](https://github.com/BelRais/SmartCalc_v1.0)| This project is about creating a calculator. |  C , Qt |
 | [s21_string](https://github.com/BelRais/s21_string)| Implementation of the string.h library with additions. | C |
+| [s21_decimal](https://github.com/BelRais/C5_s21_decimal)| Implementation of my own s21_decimal.h library. | C |
 
 
 
