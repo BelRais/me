@@ -31,7 +31,7 @@
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 | [SmartCalc_v1.0](https://github.com/BelRais/SmartCalc_v1.0)| This project is about creating a calculator. |  C , Qt |
-| [Monitoring_System](https://github.com/DonOutcast/s21_Monitoring_System)| This poroject about monotorinc process in MacOS and Linux| C++, Qt, Linux, Bash, Sh, Telegram, OOP, MVC|
+
 
 
 
