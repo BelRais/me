@@ -39,10 +39,18 @@
 | [s21_matrix](https://github.com/BelRais/s21_matrix)| Implementation of the matrix.h library. | C |
 | [Simple Bash Utils](https://github.com/BelRais/Simple_Bash_Utils)| Development of Bash text utilities: cat, grep. | C |
 
+<br> SQL Projects </br>
+📋 Languages:
+![SQL](https://img.shields.io/badge/SQL-0f0f0f%3F?style=for-the-badge&logo=Structured-Query-Language&logoColor=white&color=blue)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-0f0f0f%3F?style=for-the-badge&logo=Structured-Query-Language&logoColor=white&color=blue)
+💾 Databases:
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+💻 IDEs/Editors:
+![Datagrip](https://img.shields.io/badge/Datagrip-0f0f0f%3F?style=for-the-badge&logo=datagrip&logoColor=white&color=black)
 
-
-
-
+| Project name      | Description                | Tools |
+| ------------- |:------------------------:| ------------------------:|
+| [Info21 v1.0](https://github.com/BelRais/SQL2_Info)| Data analysis and statistics for School 21 | SQL, PL/SQL |
   
 <br> Intensive testing </br>
    📋 Bootcamps Languages:
