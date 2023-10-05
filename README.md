@@ -43,10 +43,13 @@
 📋 Languages:
 ![SQL](https://img.shields.io/badge/SQL-0f0f0f%3F?style=for-the-badge&logo=Structured-Query-Language&logoColor=white&color=blue)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-0f0f0f%3F?style=for-the-badge&logo=Structured-Query-Language&logoColor=white&color=blue)
-💾 Databases:
+
+💾 Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 💻 IDEs/Editors:
 ![Datagrip](https://img.shields.io/badge/Datagrip-0f0f0f%3F?style=for-the-badge&logo=datagrip&logoColor=white&color=black)
+
 
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
