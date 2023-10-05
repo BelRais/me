@@ -37,6 +37,7 @@
 | [s21_string](https://github.com/BelRais/s21_string)| Implementation of the string.h library with additions. | C |
 | [s21_decimal](https://github.com/BelRais/C5_s21_decimal)| Implementation of my own s21_decimal.h library. | C |
 | [s21_matrix](https://github.com/BelRais/s21_matrix)| Implementation of the matrix.h library. | C |
+| [Simple Bash Utils](https://github.com/BelRais/Simple_Bash_Utils)| Development of Bash text utilities: cat, grep. | C |
 
 
 
